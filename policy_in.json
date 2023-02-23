@@ -1,0 +1,11 @@
+{
+   "name": "duo test access policy 3",
+   "sections": 
+        {
+        "anonymous_networks": 
+                { 
+                "anonymous_access_behavior": "no-action"
+				}
+		}		
+
+}
