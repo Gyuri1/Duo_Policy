@@ -2,7 +2,11 @@
 
 Please update:  
   `duo_admin_config.py` file  -> based on Your own Duo API credentials
+  
+  
+Please install duo_client python package:
 
+`pip install duo_client`
 
 # How to use:
 
