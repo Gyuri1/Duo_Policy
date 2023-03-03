@@ -4,9 +4,17 @@ Please update:
   `duo_admin_config.py` file  -> based on Your own Duo API credentials
   
   
-Please install duo_client python package:
+  
+  
+# How to install:
 
-`pip install duo_client`
+  Copy these 2 files into a working directory and make sure `requests` is an installed python library:
+  
+  `pip install requests` 
+  
+  Please install duo_client python package as well: 
+  
+  `pip install duo_client`
 
 # How to use:
 
