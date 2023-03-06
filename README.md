@@ -12,7 +12,7 @@ Please update:
   
   `pip install requests` 
   
-  Please install duo_client python package as well: 
+  Please install `duo_client` python package as well: 
   
   `pip install duo_client`
 
